@@ -190,4 +190,4 @@ rho = 0.6 | kappa = 1 | theta = 0.1 | lambda = 0 | sigma = 0.1
 * Léa Pinto | lea.pinto@dauphine.eu
 * Florian Schirrer | florian.schirrer@dauphine.eu
 
-Project Link: [https://github.com/aletacon/project](https://github.com/aletacon/project)
+Project Link: [https://github.com/antoineletacon/project](https://github.com/antoineletacon/project)
