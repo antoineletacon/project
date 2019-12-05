@@ -6,7 +6,7 @@
   
    <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="logo.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -74,7 +74,7 @@ The model considers the following dynamic of the stock price:
 
 <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Heston 1.png" alt="Heston 1" width="280" height="35">
   </a>
 
@@ -82,7 +82,7 @@ and the following mean-reverting process for the volatility:
 
 <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Heston 2.png" alt="Heston 2" width="334" height="32">
   </a>
 
@@ -90,7 +90,7 @@ where the two Brownian motions are correlated,
 
 <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Heston 3.png" alt="Heston 3" width="160" height="37">
   </a>
 
@@ -100,7 +100,7 @@ The model specifies that the instantaneous interest rate follows the stochastic 
 
 <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Vasicek.png" alt="Vasicek" width="190" height="32">
   </a>
 
@@ -127,7 +127,7 @@ The price of the strategy is display by clicking on the price button. The differ
 
   <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Pricing.png" alt="Pricing" width="1000" height="500">
   </a>
 
@@ -163,7 +163,7 @@ rho = 0.6 | kappa = 1 | theta = 0.1 | lambda = 0 | sigma = 0.1
 
 <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Volatility.png" alt="Volatility" width="1200" height="300">
   </a>
   
@@ -171,7 +171,7 @@ rho = 0.6 | kappa = 1 | theta = 0.1 | lambda = 0 | sigma = 0.1
 
   <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Rate.png" alt="Rate" width="1200" height="300">
   </a>
 
@@ -179,7 +179,7 @@ rho = 0.6 | kappa = 1 | theta = 0.1 | lambda = 0 | sigma = 0.1
 
   <br />
 <p align="center">
-  <a href="https://github.com/aletacon/project">
+  <a href="https://github.com/antoineletacon/project">
     <img src="Underlying.png" alt="Underlying" width="1200" height="300">
   </a>
 
