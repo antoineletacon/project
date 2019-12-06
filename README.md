@@ -123,7 +123,7 @@ The option pricer computes Call & Put Linear Payoffs. For illustration purposes 
 * In the Simulation Parameters tab, fill the following parameters : Number of Simulations | Number of Paths. 
 
 The payoff representation of the strategy is automatically updated. 
-The price of the strategy is display by clicking on the price button. The different trajectories are then drawn. 
+The price of the strategy is displayed by clicking on the price button. A Monte-Carlo approach is used to price the different strategies. The different trajectories are then drawn. 
 
   <br />
 <p align="center">
@@ -152,7 +152,7 @@ For LIBOR 3M USD : Rate Volatility = 0.014
 For LIBOR 3M USD : Long-term level of the mean = 0.02
 ```
 
-* For simplification and design purposes, the parameters rho, kappa, theta, lambda and sigma are fixed. 
+* For simplification and design purposes, the Heston Model parameters rho, kappa, theta, lambda and sigma are fixed. 
 ```sh
 rho = 0.6 | kappa = 1 | theta = 0.1 | lambda = 0 | sigma = 0.1
 ```
