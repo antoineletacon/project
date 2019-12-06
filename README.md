@@ -125,6 +125,8 @@ The option pricer computes Call & Put Linear Payoffs. For illustration purposes 
 The payoff representation of the strategy is automatically updated. 
 The price of the strategy is displayed by clicking on the price button. A Monte-Carlo approach is used to price the different strategies. The different trajectories are then drawn. 
 
+In case you want to price another strategy, please refresh the page. 
+
   <br />
 <p align="center">
   <a href="https://github.com/antoineletacon/project">
